@@ -4,16 +4,6 @@
 
 I needed to convert dates to timestamps for time tracking and scheduling things to go live.  This helps with that.
 
-Need to convert a timestamp back to a human-readable date?  Run:
-
-```bash
-# Linux / GNU-based
-date -d @1267619929
-
-# macOS / BSD-based
-date -r <timestamp>
-```
-
 ## Usage
 
 Get timestamp for today at midnight (00:00):
@@ -37,14 +27,21 @@ date2timestamp.sh -y 2020 -m 8 -d 26 -H 3 -M 55 -S 12
 # Output: 1598432112
 ```
 
+**NOTE:**
+Need to convert a timestamp back to a human-readable date?  Run:
+
+```bash
+# Linux / GNU-based
+date -d @1267619929
+
+# macOS / BSD-based
+date -r <timestamp>
+```
+
 ## Install
 
-  1. Either [clone this repository](https://help.github.com/articles/cloning-a-repository/) or [download the ZIP file](https://github.com/blakek/date2timestamp/archive/master.zip)
+  1. Either [clone this repository](https://help.github.com/articles/cloning-a-repository/) or [download the ZIP file](archive/master.zip)
   2. Add this to your $PATH
-
-## Acknowledgments
-
-date2timestamp was inspired by..
 
 ## License
 
