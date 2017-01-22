@@ -40,7 +40,7 @@ date -r <timestamp>
 
 ## Install
 
-  1. Either [clone this repository](https://help.github.com/articles/cloning-a-repository/) or [download the ZIP file](archive/master.zip)
+  1. Either [clone this repository](https://help.github.com/articles/cloning-a-repository/) or [download the ZIP file](https://github.com/blakek/date2timestamp/archive/master.zip)
   2. Add this to your $PATH
 
 ## License
