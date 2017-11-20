@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # Save current date into an array to use for defaults later
 IFS=':'
