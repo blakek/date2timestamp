@@ -9,21 +9,21 @@ I needed to convert dates to timestamps for time tracking and scheduling things 
 Get timestamp for today at midnight (00:00):
 
 ```bash
-date2timestamp.sh
+date2timestamp
 # Example output: 1478498400
 ```
 
 Get timestamp for some other day (2020-08-26):
 
 ```bash
-date2timestamp.sh -y 2020 -m 8 -d 26
+date2timestamp -y 2020 -m 8 -d 26
 # Output: 1598418000
 ```
 
 Get timestamp for really specific time (2020-08-26 at 03:55:12):
 
 ```bash
-date2timestamp.sh -y 2020 -m 8 -d 26 -H 3 -M 55 -S 12
+date2timestamp -y 2020 -m 8 -d 26 -H 3 -M 55 -S 12
 # Output: 1598432112
 ```
 
