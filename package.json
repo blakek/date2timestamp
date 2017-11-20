@@ -1,6 +1,6 @@
 {
   "name": "date2timestamp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/blakek/date2timestamp/",
   "author": "Blake Knight <bknight@gsandf.com> (http://blakek.me/)",
