@@ -1,5 +1,7 @@
 # date2timestamp
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakek/date2timestamp.svg)](https://greenkeeper.io/)
+
 > Convert a date to its UNIX epoch timestamp
 
 I needed to convert dates to timestamps for time tracking and scheduling things to go live.  This helps with that.
