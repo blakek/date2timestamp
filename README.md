@@ -40,6 +40,22 @@ date -r <timestamp>
 
 ## Install
 
+### Option 1: use `yarn` or `npm`
+
+If using [npm](https://www.npmjs.com/):
+
+```shell
+npm i -g date2timestamp
+```
+
+If using [Yarn](https://yarnpkg.com/):
+
+```shell
+yarn global add date2timestamp
+```
+
+### Option 2: manual installation
+
   1. Either [clone this repository](https://help.github.com/articles/cloning-a-repository/) or [download the ZIP file](https://github.com/blakek/date2timestamp/archive/master.zip)
   2. Add this to your $PATH
 
