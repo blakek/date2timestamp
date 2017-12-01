@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/blakek/date2timestamp/",
-  "author": "Blake Knight <bknight@gsandf.com> (http://blakek.me/)",
+  "author": "Blake Knight <oss.ideas@gmail.com> (http://blakek.me/)",
   "license": "MIT",
   "bin": "date2timestamp"
 }
